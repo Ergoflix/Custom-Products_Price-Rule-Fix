@@ -14,7 +14,9 @@ Fix - Rules don´t work in custom products
 
 ## If you use another type then checkboxes please search for class "label__surcharge-info" in twig file path  
 - /swagcustomizedproducts/src/Resources/views/storefront/component/customized-products/option-type/<your type>
-there you must pass the context
+     
+there you must pass the context as variable to price-label.html.twig
+     
 ```
      {% sw_include '@SwagCustomizedProducts/storefront/component/customized-products/_include/price-label.html.twig' with {
         value: optionValue, context: context
