@@ -1,5 +1,7 @@
 # Custom-Products_Price-Rule-Fix
 Fix - Rules don´t work in custom products 
+"version": "3.4.5",
+
 
 
 # Fix for Shopware 6 Ticket
