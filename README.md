@@ -8,5 +8,5 @@ Fix - Rules don´t work in custom products
 - https://issues.shopware.com/issues/CUS-517
 - https://issues.shopware.com/issues/CUS-518
 
-# Copy&Paste the content of file price-lable.html.twig into: 
+# Copy&Paste the content of file price-label.html.twig into: 
 /swagcustomizedproducts/src/Resources/views/storefront/component/customized-products/_include/price-label.html.twig
